@@ -242,12 +242,12 @@ Algumas funcionalidades que podem ser adicionadas futuramente:
 
 ## ✨ Alguns Pokémon cadastráveis ✨
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="100">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="100">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="100">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" width="100">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png" width="100">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png" width="100">
 
 </div>
 
