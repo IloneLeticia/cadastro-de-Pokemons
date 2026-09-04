@@ -4,7 +4,7 @@
 
 ### 🐾 Um sistema de cadastro de Pokémon desenvolvido em C# Windows Forms
 
-<img src="https://img.shields.io/badge/C%23-Programming-blueviolet?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-Programming-blueviolet?style=for-the-badge&logo=csharp&logoColor=pink">
 <img src="https://img.shields.io/badge/.NET-Windows%20Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
