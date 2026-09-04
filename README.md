@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif">
 
 **「 Gotta code 'em all! 」**
 
