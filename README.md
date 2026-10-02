@@ -265,6 +265,6 @@ Projeto desenvolvido como atividade prática para aprimoramento dos conhecimento
 
 **Ilone Letícia**
 
-⭐ Se este projeto foi útil para você, considere deixar uma estrela!
+
 
 </div>
